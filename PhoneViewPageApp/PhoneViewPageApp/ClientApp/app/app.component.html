@@ -1,0 +1,8 @@
+﻿<h1>Телефоны</h1>
+<div *ngFor="let item of phones" class="PhoneCard" style="margin:5px; border:solid black 2px; height:350px; width:600px">
+    <img src="{{item.?phoneIMGName}}" style="float:left; height:325px; width: 275px; background-color:gray;" />
+    <h3 class="">{{item?.modelName}}</h3>
+    <p>Процессор: {{item?.processor}};    Ядер: {{item?.cores}}</p>
+    <p>Пямять: {{item?.memerySizeMB / 1024}} ГБ;   Ram: {{item?.ramSizeMB / 1024}} ГБ</p>
+    <p>Камера: {{item?.cameraMP}} МП</p>
+</div>

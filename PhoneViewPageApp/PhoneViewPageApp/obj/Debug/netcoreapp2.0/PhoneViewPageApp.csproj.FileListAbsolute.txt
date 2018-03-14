@@ -1,0 +1,12 @@
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\PhoneViewPageApp.deps.json
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\PhoneViewPageApp.runtimeconfig.json
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\PhoneViewPageApp.runtimeconfig.dev.json
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\PhoneViewPageApp.dll
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.csproj.CoreCompileInputs.cache
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.AssemblyInfoInputs.cache
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.AssemblyInfo.cs
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\PhoneViewPageApp.pdb
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.dll
+c:\users\userstas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.pdb
+C:\Users\UserStas\source\repos\PhoneViewPageApp\PhoneViewPageApp\obj\Debug\netcoreapp2.0\PhoneViewPageApp.csprojResolveAssemblyReference.cache
+C:\Users\UserStas\source\repos\PhoneViewPageApp\PhoneViewPageApp\bin\Debug\netcoreapp2.0\ClientApp\app\img\phone.jpg
