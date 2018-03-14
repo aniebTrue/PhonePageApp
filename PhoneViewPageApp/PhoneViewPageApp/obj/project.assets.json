@@ -12580,11 +12580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UserStas\\source\\repos\\PhoneViewPageApp\\PhoneViewPageApp\\PhoneViewPageApp.csproj",
+      "projectUniqueName": "D:\\Documents\\MyRepos\\PhonePageApp\\PhoneViewPageApp\\PhoneViewPageApp\\PhoneViewPageApp.csproj",
       "projectName": "PhoneViewPageApp",
-      "projectPath": "C:\\Users\\UserStas\\source\\repos\\PhoneViewPageApp\\PhoneViewPageApp\\PhoneViewPageApp.csproj",
+      "projectPath": "D:\\Documents\\MyRepos\\PhonePageApp\\PhoneViewPageApp\\PhoneViewPageApp\\PhoneViewPageApp.csproj",
       "packagesPath": "C:\\Users\\UserStas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UserStas\\source\\repos\\PhoneViewPageApp\\PhoneViewPageApp\\obj\\",
+      "outputPath": "D:\\Documents\\MyRepos\\PhonePageApp\\PhoneViewPageApp\\PhoneViewPageApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -19,11 +19,7 @@ namespace PhoneViewPageApp.Controllers
             if (!db.Phones.Any())
             {
                 db.Phones.Add(new Phone { ModelName = "iPhone X", Processor = "ARM", CameraMP = 20, Cores = 4, MemerySizeMB = 10240, RAMSizeMB = 2048, PhoneIMGName = "phone.jpg" });
-
                 db.Phones.Add(new Phone { ModelName = "Galaxy S8", Processor = "ARM", CameraMP = 30, Cores = 8, MemerySizeMB = 10240, RAMSizeMB = 2048, PhoneIMGName = "phone.jpg" });
-
-                db.Phones.Add(new Phone { ModelName = "Pixel 2", Processor = "ARM", CameraMP = 40, Cores = 10, MemerySizeMB = 10240, RAMSizeMB = 2048, PhoneIMGName = "phone.jpg" });
-
                 db.SaveChanges();
             }
         }
